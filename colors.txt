@@ -1,0 +1,3 @@
+Light blue: #99FFFF
+Dark blue: #28313F
+Main red: #F44336
